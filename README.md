@@ -1,1 +1,3 @@
-- Test Readme
+- # How to Replace Photos for Website
+- Step 1: Add Photo and
+- Step 2: Rename to match "photo1.jpg", "photo2.jpg", "photo3.jpg"
